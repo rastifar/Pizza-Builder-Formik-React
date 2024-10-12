@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pizza-Builder-Formik-React/static/css/main.e7720ab7.css",
+    "main.js": "/Pizza-Builder-Formik-React/static/js/main.0f25ce58.js",
+    "static/media/pizza.jpg": "/Pizza-Builder-Formik-React/static/media/pizza.4b03fc725fed4591fba1.jpg",
+    "index.html": "/Pizza-Builder-Formik-React/index.html",
+    "main.e7720ab7.css.map": "/Pizza-Builder-Formik-React/static/css/main.e7720ab7.css.map",
+    "main.0f25ce58.js.map": "/Pizza-Builder-Formik-React/static/js/main.0f25ce58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.0f25ce58.js"
+  ]
+}
